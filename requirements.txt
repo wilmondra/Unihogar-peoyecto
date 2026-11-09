@@ -1,0 +1,6 @@
+PySide6
+requests
+reportlab
+openpyxl
+mysql-connector-python
+bcrypt
